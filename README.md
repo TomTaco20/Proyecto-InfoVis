@@ -8,7 +8,7 @@ https://mmaartinn.github.io/Proyecto-InfoVis/
 
 
 ## Entrega 1 (Visualización Estática)
-![Foto](E1.png)
+![Foto](images/E1.png)
 
 
 ## Entrega 2 (Visualización Dinámica)
@@ -20,4 +20,4 @@ Se añadieron funcionalidades:
 Se corrigió:
 * Simplificación de información (coherencia con historia que se quiere contar)
 
-<!-- ![Foto][E2.png] --->
+<!-- ![Foto][images/E2.png] --->
