@@ -6,7 +6,8 @@
     "Posición Global": 132,
     "Rate": 3.61,
     "Ratings": 43,
-    "Género": "Violeta Parra"
+    "Género": "Violeta Parra",
+    "Cancion": "audio1.mp3"
   },
   {
     "Año": 1957,
@@ -15,7 +16,8 @@
     "Posición Global": 125,
     "Rate": 3.64,
     "Ratings": 74,
-    "Género": "Violeta Parra"
+    "Género": "Violeta Parra",
+    "Cancion": "audio2.mp3"
   },
   {
     "Año": 1958,
@@ -24,7 +26,8 @@
     "Posición Global": 299,
     "Rate": 3.46,
     "Ratings": 37,
-    "Género": "Violeta Parra"
+    "Género": "Violeta Parra",
+    "Cancion": "audio3.mp3"
   },
   {
     "Año": 1959,
@@ -33,7 +36,8 @@
     "Posición Global": "?",
     "Rate": 2.72,
     "Ratings": 4,
-    "Género": "Folklore"
+    "Género": "Folklore",
+    "Cancion": "audio4.mp3"
   },
   {
     "Año": 1960,
@@ -42,7 +46,8 @@
     "Posición Global": 244,
     "Rate": 3.51,
     "Ratings": 62,
-    "Género": "Violeta Parra"
+    "Género": "Violeta Parra",
+    "Cancion": "audio5.mp3"
   },
   {
     "Año": 1961,
@@ -51,7 +56,8 @@
     "Posición Global": "?",
     "Rate": 4,
     "Ratings": 2,
-    "Género": "Folklore"
+    "Género": "Folklore",
+    "Cancion": "audio6.mp3"
   },
   {
     "Año": 1962,
@@ -60,7 +66,8 @@
     "Posición Global": 249,
     "Rate": 3.74,
     "Ratings": 29,
-    "Género": "Violeta Parra"
+    "Género": "Violeta Parra",
+    "Cancion": "audio7.mp3"
   },
   {
     "Año": 1963,
@@ -69,7 +76,8 @@
     "Posición Global": "?",
     "Rate": 3.5,
     "Ratings": 2,
-    "Género": "Folklore"
+    "Género": "Folklore",
+    "Cancion": "audio8.mp3"
   },
   {
     "Año": 1964,
@@ -78,7 +86,8 @@
     "Posición Global": "?",
     "Rate": 4.07,
     "Ratings": 8,
-    "Género": "Otro"
+    "Género": "Otro",
+    "Cancion": "audio9.mp3"
   },
   {
     "Año": 1965,
@@ -87,7 +96,8 @@
     "Posición Global": 84,
     "Rate": 3.78,
     "Ratings": 72,
-    "Género": "Violeta Parra"
+    "Género": "Violeta Parra",
+    "Cancion": "audio10.mp3"
   },
   {
     "Año": 1966,
@@ -96,7 +106,8 @@
     "Posición Global": 31,
     "Rate": 3.83,
     "Ratings": 961,
-    "Género": "Violeta Parra"
+    "Género": "Violeta Parra",
+    "Cancion": "audio11.mp3"
   },
   {
     "Año": 1967,
@@ -105,7 +116,8 @@
     "Posición Global": 111,
     "Rate": 3.74,
     "Ratings": 132,
-    "Género": "Víctor Jara"
+    "Género": "Víctor Jara",
+    "Cancion": "audio12.mp3"
   },
   {
     "Año": 1968,
@@ -114,7 +126,8 @@
     "Posición Global": 313,
     "Rate": 3.68,
     "Ratings": 83,
-    "Género": "Folklore"
+    "Género": "Folklore",
+    "Cancion": "audio13.mp3"
   },
   {
     "Año": 1969,
@@ -123,7 +136,8 @@
     "Posición Global": 65,
     "Rate": 3.78,
     "Ratings": 520,
-    "Género": "Víctor Jara"
+    "Género": "Víctor Jara",
+    "Cancion": "audio14.mp3"
   },
   {
     "Año": 1970,
@@ -132,7 +146,8 @@
     "Posición Global": 76,
     "Rate": 3.78,
     "Ratings": 343,
-    "Género": "Folklore"
+    "Género": "Folklore",
+    "Cancion": "audio15.mp3"
   },
   {
     "Año": 1971,
@@ -141,7 +156,8 @@
     "Posición Global": 45,
     "Rate": 3.85,
     "Ratings": 1181,
-    "Género": "Víctor Jara"
+    "Género": "Víctor Jara",
+    "Cancion": "audio16.mp3"
   },
   {
     "Año": 1972,
@@ -150,7 +166,8 @@
     "Posición Global": 209,
     "Rate": 3.74,
     "Ratings": 141,
-    "Género": "Víctor Jara"
+    "Género": "Víctor Jara",
+    "Cancion": "audio17.mp3"
   },
   {
     "Año": 1973,
@@ -159,7 +176,8 @@
     "Posición Global": 303,
     "Rate": 3.65,
     "Ratings": 304,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio18.mp3"
   },
   {
     "Año": 1974,
@@ -168,7 +186,8 @@
     "Posición Global": 95,
     "Rate": 3.78,
     "Ratings": 243,
-    "Género": "Folklore"
+    "Género": "Folklore",
+    "Cancion": "audio19.mp3"
   },
   {
     "Año": 1975,
@@ -177,7 +196,8 @@
     "Posición Global": 43,
     "Rate": 3.82,
     "Ratings": 487,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio20.mp3"
   },
   {
     "Año": 1976,
@@ -186,7 +206,8 @@
     "Posición Global": 397,
     "Rate": 3.66,
     "Ratings": 69,
-    "Género": "Folklore"
+    "Género": "Folklore",
+    "Cancion": "audio21.mp3"
   },
   {
     "Año": 1977,
@@ -195,7 +216,8 @@
     "Posición Global": 174,
     "Rate": 3.69,
     "Ratings": 239,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio22.mp3"
   },
   {
     "Año": 1978,
@@ -204,7 +226,8 @@
     "Posición Global": 855,
     "Rate": 3.41,
     "Ratings": 50,
-    "Género": "Folklore"
+    "Género": "Folklore",
+    "Cancion": "audio23.mp3"
   },
   {
     "Año": 1979,
@@ -213,7 +236,8 @@
     "Posición Global": 186,
     "Rate": 3.72,
     "Ratings": 92,
-    "Género": "Folklore"
+    "Género": "Folklore",
+    "Cancion": "audio24.mp3"
   },
   {
     "Año": 1980,
@@ -222,7 +246,8 @@
     "Posición Global": "?",
     "Rate": 3.39,
     "Ratings": 6,
-    "Género": "Folklore"
+    "Género": "Folklore",
+    "Cancion": "audio25.mp3"
   },
   {
     "Año": 1981,
@@ -231,7 +256,8 @@
     "Posición Global": 18,
     "Rate": 3.82,
     "Ratings": 1301,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio26.mp3"
   },
   {
     "Año": 1982,
@@ -240,7 +266,8 @@
     "Posición Global": 357,
     "Rate": 3.55,
     "Ratings": 156,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio27.mp3"
   },
   {
     "Año": 1983,
@@ -249,7 +276,8 @@
     "Posición Global": 241,
     "Rate": 3.67,
     "Ratings": 62,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio28.mp3"
   },
   {
     "Año": 1984,
@@ -258,7 +286,8 @@
     "Posición Global": 72,
     "Rate": 3.78,
     "Ratings": 116,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio29.mp3"
   },
   {
     "Año": 1985,
@@ -267,7 +296,8 @@
     "Posición Global": "?",
     "Rate": 2.81,
     "Ratings": 35,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio30.mp3"
   },
   {
     "Año": 1986,
@@ -276,7 +306,8 @@
     "Posición Global": 70,
     "Rate": 3.72,
     "Ratings": 593,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio31.mp3"
   },
   {
     "Año": 1987,
@@ -285,7 +316,8 @@
     "Posición Global": 166,
     "Rate": 3.71,
     "Ratings": 81,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio32.mp3"
   },
   {
     "Año": 1988,
@@ -294,7 +326,8 @@
     "Posición Global": "?",
     "Rate": 3.84,
     "Ratings": 25,
-    "Género": "Folklore"
+    "Género": "Folklore",
+    "Cancion": "audio33.mp3"
   },
   {
     "Año": 1989,
@@ -303,7 +336,8 @@
     "Posición Global": 300,
     "Rate": 3.65,
     "Ratings": 69,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio34.mp3"
   },
   {
     "Año": 1990,
@@ -312,7 +346,8 @@
     "Posición Global": 67,
     "Rate": 3.73,
     "Ratings": 499,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio35.mp3"
   },
   {
     "Año": 1991,
@@ -321,7 +356,8 @@
     "Posición Global": 99,
     "Rate": 3.71,
     "Ratings": 270,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio36.mp3"
   },
   {
     "Año": 1992,
@@ -330,7 +366,8 @@
     "Posición Global": 292,
     "Rate": 3.64,
     "Ratings": 97,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio37.mp3"
   },
   {
     "Año": 1993,
@@ -339,7 +376,8 @@
     "Posición Global": "?",
     "Rate": 3.52,
     "Ratings": 39,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio38.mp3"
   },
   {
     "Año": 1994,
@@ -348,7 +386,8 @@
     "Posición Global": "?",
     "Rate": 3.58,
     "Ratings": 25,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio39.mp3"
   },
   {
     "Año": 1995,
@@ -357,7 +396,8 @@
     "Posición Global": 105,
     "Rate": 3.76,
     "Ratings": 272,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio40.mp3"
   },
   {
     "Año": 1996,
@@ -366,7 +406,8 @@
     "Posición Global": "?",
     "Rate": 3.71,
     "Ratings": 66,
-    "Género": "Otro"
+    "Género": "Otro",
+    "Cancion": "audio41.mp3"
   },
   {
     "Año": 1997,
@@ -375,7 +416,8 @@
     "Posición Global": 57,
     "Rate": 3.79,
     "Ratings": 367,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio42.mp3"
   },
   {
     "Año": 1998,
@@ -384,7 +426,8 @@
     "Posición Global": "?",
     "Rate": 3.77,
     "Ratings": 68,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio43.mp3"
   },
   {
     "Año": 1999,
@@ -393,7 +436,8 @@
     "Posición Global": 325,
     "Rate": 3.62,
     "Ratings": 119,
-    "Género": "Otro"
+    "Género": "Otro",
+    "Cancion": "audio44.mp3"
   },
   {
     "Año": 2000,
@@ -402,7 +446,8 @@
     "Posición Global": "?",
     "Rate": 3.52,
     "Ratings": 42,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio45.mp3"
   },
   {
     "Año": 2001,
@@ -411,7 +456,8 @@
     "Posición Global": 635,
     "Rate": 3.52,
     "Ratings": 106,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio46.mp3"
   },
   {
     "Año": 2002,
@@ -420,7 +466,8 @@
     "Posición Global": "?",
     "Rate": 3.88,
     "Ratings": 20,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio47.mp3"
   },
   {
     "Año": 2003,
@@ -429,7 +476,8 @@
     "Posición Global": "?",
     "Rate": 3.79,
     "Ratings": 53,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio48.mp3"
   },
   {
     "Año": 2004,
@@ -438,7 +486,8 @@
     "Posición Global": 153,
     "Rate": 3.66,
     "Ratings": 310,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio49.mp3"
   },
   {
     "Año": 2005,
@@ -447,7 +496,8 @@
     "Posición Global": "?",
     "Rate": 3.94,
     "Ratings": 27,
-    "Género": "Otro"
+    "Género": "Otro",
+    "Cancion": "audio50.mp3"
   },
   {
     "Año": 2006,
@@ -456,7 +506,8 @@
     "Posición Global": 240,
     "Rate": 3.59,
     "Ratings": 465,
-    "Género": "Otro"
+    "Género": "Otro",
+    "Cancion": "audio51.mp3"
   },
   {
     "Año": 2007,
@@ -465,7 +516,8 @@
     "Posición Global": "?",
     "Rate": 3.66,
     "Ratings": 98,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio52.mp3"
   },
   {
     "Año": 2008,
@@ -474,7 +526,8 @@
     "Posición Global": 46,
     "Rate": 3.72,
     "Ratings": 216,
-    "Género": "Otro"
+    "Género": "Otro",
+    "Cancion": "audio53.mp3"
   },
   {
     "Año": 2009,
@@ -483,7 +536,8 @@
     "Posición Global": "?",
     "Rate": 3.59,
     "Ratings": 48,
-    "Género": "Otro"
+    "Género": "Otro",
+    "Cancion": "audio54.mp3"
   },
   {
     "Año": 2010,
@@ -492,7 +546,8 @@
     "Posición Global": "?",
     "Rate": 3.67,
     "Ratings": 137,
-    "Género": "Otro"
+    "Género": "Otro",
+    "Cancion": "audio55.mp3"
   },
   {
     "Año": 2011,
@@ -501,7 +556,8 @@
     "Posición Global": 542,
     "Rate": 3.39,
     "Ratings": 191,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio56.mp3"
   },
   {
     "Año": 2012,
@@ -510,7 +566,8 @@
     "Posición Global": "?",
     "Rate": 3.68,
     "Ratings": 50,
-    "Género": "Otro"
+    "Género": "Otro",
+    "Cancion": "audio57.mp3"
   },
   {
     "Año": 2013,
@@ -519,7 +576,8 @@
     "Posición Global": "?",
     "Rate": 3.89,
     "Ratings": 32,
-    "Género": "Otro"
+    "Género": "Otro",
+    "Cancion": "audio58.mp3"
   },
   {
     "Año": 2014,
@@ -528,7 +586,8 @@
     "Posición Global": "?",
     "Rate": 3.48,
     "Ratings": 136,
-    "Género": "Rock"
+    "Género": "Rock",
+    "Cancion": "audio59.mp3"
   },
   {
     "Año": 2015,
@@ -537,7 +596,8 @@
     "Posición Global": "?",
     "Rate": 3.64,
     "Ratings": 120,
-    "Género": "Otro"
+    "Género": "Otro",
+    "Cancion": "audio60.mp3"
   },
   {
     "Año": 2016,
@@ -546,7 +606,8 @@
     "Posición Global": "?",
     "Rate": 3.66,
     "Ratings": 64,
-    "Género": "Otro"
+    "Género": "Otro",
+    "Cancion": "audio61.mp3"
   },
   {
     "Año": 2017,
@@ -555,7 +616,8 @@
     "Posición Global": "?",
     "Rate": 3.71,
     "Ratings": 123,
-    "Género": "Otro"
+    "Género": "Otro",
+    "Cancion": "audio62.mp3"
   },
   {
     "Año": 2018,
@@ -564,7 +626,8 @@
     "Posición Global": 39,
     "Rate": 3.68,
     "Ratings": 528,
-    "Género": "Otro"
+    "Género": "Otro",
+    "Cancion": "audio63.mp3"
   },
   {
     "Año": 2019,
@@ -573,7 +636,8 @@
     "Posición Global": "?",
     "Rate": 3.62,
     "Ratings": 126,
-    "Género": "Otro"
+    "Género": "Otro",
+    "Cancion": "audio64.mp3"
   },
   {
     "Año": 2020,
@@ -582,6 +646,7 @@
     "Posición Global": 172,
     "Rate": 3.5,
     "Ratings": 187,
-    "Género": "Otro"
+    "Género": "Otro",
+    "Cancion": "audio65.mp3"
   }
 ]

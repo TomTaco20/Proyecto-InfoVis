@@ -46,6 +46,18 @@
             const añosRepresentativos = [1959, 1960, 1981, 1985, 1997, 2020];
             const anotaciones = [];
 
+            // ------- PARA AUDIOS -------
+            const rutasAudios = {};
+            datos.forEach(d => {
+                if (d.Cancion) {
+                    rutasAudios[d.Cancion] = `audios/${d.Cancion}`;
+                }
+            });
+            // ---------------------
+
+            // Cargamos todos los audios
+            const reproductores = new Tone.Players(rutasAudios).toDestination();
+
             añosRepresentativos.forEach(año => {
                 const albumDestacado = datos.find(d => d.Año === año);
                 if (albumDestacado) {
@@ -88,15 +100,18 @@
                     x: datosGenero.map(d => d.Año),
                     y: datosGenero.map(d => d.Rate),
                     text: datosGenero.map(d => d.Álbum),
+
+                    customdata: datosGenero.map(d => d.Cancion), 
+
                     mode: 'markers',
                     type: 'scatter',
-                    name: genero, // Leyenda
+                    name: genero,
                     marker: {
                         size: datosGenero.map(d => d.Ratings),
                         sizemode: 'area',
-                        sizeref: sizeRef, // Usamos la misma referencia para todos
+                        sizeref: sizeRef,
                         sizemin: 4,
-                        color: paletaColores[genero] || "#E74C3C", // Color predeterminado
+                        color: paletaColores[genero] || "#E74C3C",
                         line: { width: 1, color: 'white' }
                     }
                 };
@@ -176,13 +191,17 @@
 
             // Evento que detecta cuando el cursor pasa sobre un punto del gráfico
             miGrafico.on('plotly_hover', function(data){
-                // Verificamos si el usuario ya activó el audio con el botón
-                if (Tone.context.state === "running") { // [cite: 194]
-                    // Detenemos el audio si ya estaba sonando (para que no se solapen si pasas el mouse muy rápido)
-                    reproductor.stop(); 
-                    
-                    // Iniciamos el audio original, sin mapeo de notas
-                    reproductor.start(); 
+                if (Tone.context.state === "running") {
+                    // Extraemos el nombre de la canción guardado en customdata
+                    const cancionAsociada = data.points[0].customdata;
+
+                    if (cancionAsociada && reproductores.has(cancionAsociada)) {
+                        // Detenemos cualquier audio que esté sonando para que no se mezclen
+                        reproductores.stopAll();
+                        
+                        // Reproducimos la canción específica de este álbum
+                        reproductores.player(cancionAsociada).start();
+                    }
                 }
             });
 
